@@ -1,0 +1,10 @@
+2nd Meetup - 28 November 2017
+
+Repositori ini merupakan kumpulan dokumen pada acara metup kedua yang diselenggarakan oleh komunitas Cyber Defence Community [C|DEF]. Pada 
+meetup kali ini yang mengisi sharing session, yaitu :
+1. Digit Oktavianto
+2. Ahmad Zam Zami - Cyber Batallion
+3. Reza WS - Malware Protection Scenario
+4. Adi Nugroho - CCDEF Bulletin
+
+Materi pada metup kali ini dapat diunduh pada dirketori ini.
